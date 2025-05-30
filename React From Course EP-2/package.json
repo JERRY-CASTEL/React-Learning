@@ -1,0 +1,19 @@
+{
+  "name": "react-from-course-ep-2",
+  "version": "1.0.0",
+  "description": "React learning",
+  "license": "ISC",
+  "author": "Elavarasan",
+  "type": "commonjs",
+  
+  "scripts": {
+    "test": "jast"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
